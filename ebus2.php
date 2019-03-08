@@ -75,7 +75,7 @@ $_SESSION['txtNum'] = $num1;
 
                         <tr>
                             <td>Pin</td>
-                            <td><input type="text" id="txtPin" name="txtPin" value=""  /></td>
+                            <td><input type="password" id="txtPin" name="txtPin" value="" required  /></td>
                         </tr>
                         <tr>
    

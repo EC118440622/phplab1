@@ -43,5 +43,26 @@ li a:hover {
         </ul>
         <?php
         ?>
-    </body>
+    </body> 
+   
+     
+
+    <center>
+    <p style="font-size:100px; color:red;">Welcome!</font></p>
+    </center>
+<table cellspacing="10"> 
+   
+    
+<center>Please use the navigation bar to find your way around the site.</center>
+<center>Through this website you will be able to view my cv and interests.</center>
+
+
+
+</body>
+</html>
+
+             
+        
+       
+        
 </html> 
